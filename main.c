@@ -5,7 +5,7 @@ int main(){
   printf("Hello wrold2\n");
   printf("Hello wrold3\n");
   printf("Hello world4\n");
-  printf("새로운 브랜치를 만들어 봤어요");
+  printf("새로운 브랜치를 만들어 봤어요1");
   
   return 0;
 }
